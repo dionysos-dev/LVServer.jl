@@ -83,9 +83,9 @@ version = "1.7.1"
 
 [[deps.JSON3]]
 deps = ["Dates", "Mmap", "Parsers", "PrecompileTools", "StructTypes", "UUIDs"]
-git-tree-sha1 = "411eccfe8aba0814ffa0fdf4860913ed09c34975"
+git-tree-sha1 = "34a52631602d7233eb1dca1a358ae82b656f9f2a"
 uuid = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
-version = "1.14.3"
+version = "1.14.4"
 
     [deps.JSON3.extensions]
     JSON3ArrowExt = ["ArrowTypes"]
